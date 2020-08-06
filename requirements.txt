@@ -1,4 +1,4 @@
-pysam
+pysam==0.9.1
 sortedcontainers
 psutil
 netifaces
